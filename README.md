@@ -1,0 +1,2 @@
+# detek
+ini hasil
